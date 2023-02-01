@@ -1,0 +1,12 @@
+.navbar {
+    background-color: aqua;
+    margin-top: 0;
+    width: 100%;
+    /* display: flex;
+    justify-content:center; */
+}
+
+.navbar li {
+    display: inline;
+    margin: 5px;
+}

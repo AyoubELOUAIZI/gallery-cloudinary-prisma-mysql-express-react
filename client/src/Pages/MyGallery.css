@@ -1,0 +1,38 @@
+.container{
+    background-color:pink;
+}
+.inputes{
+    background-color: pink;
+}
+
+.inputes input{
+   font-size:90%;
+   padding: 1%;
+   width: 30%;
+   background-color:aqua;
+   margin: 0.5%;
+   border-radius: 20px;
+   border: none !important;
+}
+/* ---------result-------- */
+
+.list-images{
+    background-color: rgb(243, 161, 175);
+}
+.inputes img{
+    display: block;
+    width:50%;
+}
+
+.inputes button {
+   font-size: 80%;
+   background-color : rgb(132, 199, 44);
+   padding: 1%;
+   border-radius: 20px;
+   border: none !important;
+   cursor: pointer;
+}
+
+.inputes button:hover {
+background-color: rgb(52, 90, 3);
+}
