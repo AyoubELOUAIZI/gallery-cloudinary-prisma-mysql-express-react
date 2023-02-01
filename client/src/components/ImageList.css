@@ -22,6 +22,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
+    padding-bottom: 50px;
 }
 
 .images-list>div {
@@ -36,7 +37,7 @@
     width: 100%;
     height: auto;
 }
-.images-list button {
+.images-list button  {
     /* width: 70px; */
     padding: 1%;
     background-color:rgb(32, 109, 83);
@@ -52,4 +53,15 @@
 
 .images-list button:hover {
     background-color: rgb(35, 102, 102);
+}
+
+.images-list input {
+    position: fixed;
+    padding: 0.5%;
+    width: 400px;
+    border-radius: 20px;
+    background-color:rgb(163, 167, 165);
+    font-size: 100%;
+    color: white;
+    bottom: 10px;
 }
